@@ -5,7 +5,7 @@
 - [Architecture](#architecture)
 - [Workflow](#workflow)
 
-## Guides
+### Guides
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
@@ -13,7 +13,7 @@
     + [Talks To Help You Become A Better Front-End Engineer In 2013](http://www.smashingmagazine.com/2012/12/22/talks-to-help-you-become-a-better-front-end-engineer-in-2013/)
     + [Web Development Teaching Materials](http://www.teaching-materials.org/)
 
-## Architecture
+### Architecture
 + Architecture
     + [BEM](http://bem.info/method/)
     + [Atomic Design](http://bradfrostweb.com/blog/post/atomic-web-design/)
@@ -35,7 +35,9 @@
     + [How To Manage Large jQuery Apps](http://www.slideshare.net/SlexAxton/how-to-manage-large-jquery-apps)
     + [Scalable and Modular Architecture for CSS](http://smacss.com/)
     + [Comparison between different Observer Pattern implementations](https://github.com/millermedeiros/js-signals/wiki/Comparison-between-different-Observer-Pattern-implementations)
-+ ##Workflow
+
+### Workflow
++ Workflow
     + [Video: Javascript Development Workflow of 2013 by Paul Irish](http://www.youtube.com/watch?v=f7AU2Ozu8eo) + [Slides](http://dl.dropboxusercontent.com/u/39519/talks/fluent/index.html)
     + [Yeoman](http://yeoman.io/) is a robust and opinionated set of tools, libraries, and a workflow that can help developers quickly build beautiful, compelling web apps.
     + [Grunt](http://gruntjs.com/) is a task-based command line build tool for JavaScript projects.
