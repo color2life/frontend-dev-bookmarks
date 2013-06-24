@@ -1,9 +1,9 @@
 # Frontend Development
 
 **Table of Contents**  
-- [Guides](#Guides)
-- [Architecture](#Architecture)
-- [Workflow](#Workflow)
+- [Guides](#guides)
+- [Architecture](#architecture)
+- [Workflow](#workflow)
 
 ## Guides
 + Guides
